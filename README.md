@@ -32,6 +32,22 @@ A Java-based Online Food Ordering System developed using Object-Oriented Program
 - Refresh the restaurant menu
 - Logout
 
+## Demo Login Credentials
+
+The application provides separate login access for customers and administrators.
+
+### Customer Login
+
+- Email: `customer@gmail.com`
+- Password: `1234`
+
+### Admin Login
+
+- Email: `admin@gmail.com`
+- Password: `admin123`
+
+These credentials are demo credentials provided for testing the application.
+
 ### 4. Order Management
 Orders follow a delivery workflow:
 
